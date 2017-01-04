@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--自定义toast-->
+    <item type="id" name="cst_toast_layout" />
+    <item type="id" name="cst_toast_first_row" />
+    <item type="id" name="cst_toast_img" />
+    <item type="id" name="cst_toast_text" />
+    <item type="id" name="cst_toast_text_img" />
+
+</resources>
